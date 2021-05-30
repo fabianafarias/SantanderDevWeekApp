@@ -6,7 +6,7 @@ import com.fabianafarias.santanderdevweekapp.data.Conta
 
 class FakeData {
     fun getLocalData(): Conta {
-        val cliente = Cliente("Maria")
+        val cliente = Cliente("Fabiana")
         val cartao = Cartao("0123 4567 8901 2345")
         return Conta(
             "012345678-9",
