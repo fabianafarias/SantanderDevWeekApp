@@ -325,7 +325,8 @@
         app:layout_constraintTop_toBottomOf="@id/mcv_pagar"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        android:background="@color/redPrimary"
+        android:background="@drawable/border"
+        android:backgroundTint="@color/redPrimary"
         />
 
     <TextView
@@ -337,7 +338,8 @@
         android:layout_marginLeft="16dp"
         app:layout_constraintStart_toStartOf="@id/iv_cartao_final_content"
         app:layout_constraintTop_toTopOf="@id/iv_cartao_final_content"
-        app:layout_constraintBottom_toBottomOf="@id/iv_cartao_final_content"/>
+        app:layout_constraintBottom_toBottomOf="@id/iv_cartao_final_content"
+        />
 
     <TextView
         android:id="@+id/tv_cartao_final_value"
