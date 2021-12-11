@@ -1,9 +1,8 @@
-# SantanderDevWeekApp
-App desenvolvido na Santander Dev Week com Kotlin, na DIO.
+## Clone do App Santander
 
-- Inserindo toolbar
-- Criando o layout, utilizando ImageView, CardView, ConstraintLayout
-- Criando a parte lógica
-- Aplicando o padrão MVVM
-- Refatorando
-- Fazendo algumas modificações no layout
+## App desenvolvido na Santander Dev Week, bootcamp na DIO.
+
+# Tecnologias usadas:
+
+- Kotlin 5.0.1
+- Firebase 28.0
